@@ -1,0 +1,35 @@
+#analyzeButton:hover {
+    -fx-background-color: #ff7f5e;
+}
+
+#analyzeButton:pressed {
+    -fx-background-color: "#d14c27";
+}
+
+#analyzeButton {
+    -fx-background-color: "#fe5836";
+    -fx-background-radius: 12;
+}
+
+#pane1 {
+    -fx-background-color: "5a6fa2";
+    -fx-background-radius: 12;
+}
+
+#pane2 {
+    -fx-background-color: "5a6fa2";
+    -fx-background-radius: 12;
+}
+
+#pane3 {
+    -fx-background-color: "5a6fa2";
+    -fx-background-radius: 12;
+}
+
+.root {
+    -fx-background-color: "#232a3d";
+}
+
+#resumeAnalyzerText {
+    -fx-text-fill: "white";
+}
