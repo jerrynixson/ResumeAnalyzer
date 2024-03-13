@@ -9,3 +9,5 @@ This tool aims to simplify the process of creating an effective resume by helpin
 * Clone this repository to your local machine.
 * Install the required dependencies. (maven, MySQL)
 * Run the application.
+### MySQL Dependancy
+Please note that this project uses MySQL server running on local machine. Ensure that you have required database as in ini file before running.
