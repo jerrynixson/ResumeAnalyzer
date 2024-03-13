@@ -10,4 +10,24 @@ This tool aims to simplify the process of creating an effective resume by helpin
 * Install the required dependencies. (maven, MySQL)
 * Run the application.
 ### MySQL Dependancy
-Please note that this project uses MySQL server running on local machine. Ensure that you have required database as in ini file before running.
+Please note that this project uses MySQL server running on local machine. Ensure that you have required database before running.
+#### Database Schema
+
+#### Database Name
+- Name: `jobs_database`
+
+#### Tables
+
+##### Table 1: jobs
+- Columns:
+  - `JobID`: Primary key
+  - `title`
+
+##### Table 2: jobrequirements
+- Columns:
+  - `JobID`: Primary key
+  - `Skill1`
+  - `Skill2`
+  - `Skill3`
+  - `Skill4`
+  - `Skill5`
